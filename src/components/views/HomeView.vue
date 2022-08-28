@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div>
     <div class="top-container">
       <h1>テスト</h1>
     </div>
